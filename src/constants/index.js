@@ -161,7 +161,7 @@ import {
         },
       ],
       image: threejsSS,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/DrizzyJ56/ThreeJS-PersonalSite",
     },
     {
       name: "eBazon",
