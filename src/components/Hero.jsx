@@ -26,9 +26,7 @@ const Hero = () => {
         </div>
       </div>
       {/* "absolute xl:mt-[3vh] w-[95vw] xs:h-[60vh] xs:mt-[35vh] lg:mt-[20vh] " */}
-      <div className="absolute inset-0 mx-auto mt-[6rem]">
       <ComputersCanvas />
-      </div>
       <div className="absolute xs:bottom-0 bottom-0 w-full flex justify-center items-center">
         <a href="#about">
           <div className="w-[35px] h-[60px] rounded-3xl border-4 mt-1 border-secondary flex justify-center items-start p-2">
